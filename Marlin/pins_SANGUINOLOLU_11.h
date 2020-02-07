@@ -76,6 +76,10 @@
 #define X_STEP_PIN         15
 #define X_DIR_PIN          21
 
+#define X2_STEP_PIN   1
+#define X2_DIR_PIN    0
+#define X2_ENABLE_PIN 14
+
 #define Y_STEP_PIN         22
 #define Y_DIR_PIN          23
 
